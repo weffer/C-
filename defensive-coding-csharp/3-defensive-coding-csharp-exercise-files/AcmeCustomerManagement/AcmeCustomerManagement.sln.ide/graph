@@ -1,0 +1,7 @@
+﻿<Solution Format="0.0.0.3">
+  <Version>2014-02-25T19:58:27.5431424Z</Version>
+  <Project Path="C:\Users\Deb\Speaking\PluralSight\Defensive Coding in C#\AcmeCustomerManagement\ACM.BL\ACM.BL.csproj">
+    <Reference Path="C:\Users\Deb\Speaking\PluralSight\Defensive Coding in C#\AcmeCustomerManagement\ACM.Library\Core.Common.csproj" />
+  </Project>
+  <Project Path="C:\Users\Deb\Speaking\PluralSight\Defensive Coding in C#\AcmeCustomerManagement\ACM.Library\Core.Common.csproj" />
+</Solution>
